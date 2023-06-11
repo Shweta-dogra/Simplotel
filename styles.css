@@ -23,11 +23,11 @@
     text-decoration: none;
     color: black;
 }
-#nav-left a:active{
+#nav-left a:active, .navbar-right i:active{
   background-color: #111614;
   color: white;
 } 
-#nav-left a:hover{
+#nav-left a:hover, .navbar-right i:hover{
   background-color: #ddd;
 } 
 
